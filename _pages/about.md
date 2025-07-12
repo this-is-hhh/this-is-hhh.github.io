@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 My name is Zhuang Xinjie, I am currently a senior student in the School of Computer Science at Wuhan University. 
-My email is 2021302111005@whu.edu.cn
+email : 2021302111005@whu.edu.cn
